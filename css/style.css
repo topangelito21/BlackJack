@@ -1357,13 +1357,13 @@
     background-color: #DC0000;
      height: 100%;
 }
- .how_it .two-box_text .travel {
+ .how_it .two-box_text .como {
      max-width: 556px;
      width: 100%;
      text-align: right;
      padding: 15% 0px 15% 30px;
 }
- .how_it .two-box_text .travel h3 {
+ .how_it .two-box_text .como h3 {
      padding-bottom: 50px;
      color: #fff;
      font-size: 40px;
@@ -1372,7 +1372,7 @@
      font-weight: bold;
      text-transform: uppercase;
 }
- .how_it .two-box_text .travel a {
+ .how_it .two-box_text .como a {
      font-size: 16px;
      border: #fff solid 1px;
      background-color: #fff;
@@ -1381,12 +1381,12 @@
      border-radius: 27px;
      display: inline-block;
 }
- .how_it .two-box_text .travel a:hover {
+ .how_it .two-box_text .como a:hover {
     background-color: #D4AF37;
 	 border: #C7B918 solid 1px;
      color: #fff;
 }
- .how_it .two-box_text .travel p {
+ .how_it .two-box_text .como p {
      font-size: 17px;
      line-height: 30px;
      color: #ffffff;
@@ -1394,22 +1394,22 @@
 }
 /** end how_it section **/
 /** We_are section **/
- .We_are {
+ .casino {
      padding-top: 90px;
      padding-bottom: 180px;
      background: #fff;
 }
- .We_are .titlepage {
+ .casino .titlepage {
     padding-bottom: 60px;
 }
- .We_are .titlepage {
+ .casino .titlepage {
      padding-bottom: 60px;
      text-align: center;
 }
- .We_are .titlepage h2 {
+ .casino .titlepage h2 {
     margin-bottom: 30px;
 }
- .We_are .titlepage span {
+ .casino .titlepage span {
      color: #3d3c3c;
      font-size:17px;
      line-height: 25px;
